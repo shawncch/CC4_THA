@@ -153,5 +153,7 @@ if __name__ == '__main__':
     
     print(thresholds)
 
+    thresholds.to_csv("s3://cc4tha/output/thresholds.csv")
+
 
 
