@@ -7,16 +7,9 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18268712,Chili's Grill & Bar,India,Noida,3702,4.6,"Mexican, American, Italian, Burger"
 18198449,Punjabi Angithi,India,New Delhi,3613,4.7,"North Indian, Chinese, Momos, Rolls, Fast Food"
 18382360,Local,India,New Delhi,5694,4.3,"North Indian, Continental, Momos"
-18382360,Local,India,New Delhi,5694,4.3,"North Indian, Continental, Momos"
-18382360,Local,India,New Delhi,5694,4.3,"North Indian, Continental, Momos"
-18382360,Local,India,New Delhi,5694,4.3,"North Indian, Continental, Momos"
-18382360,Local,India,New Delhi,5694,4.3,"North Indian, Continental, Momos"
 18273624,Cafeteria & Co.,India,New Delhi,4229,4.5,"Continental, Mexican, Fast Food"
 18466951,Jungle Jamboree,India,Noida,2832,4.5,"North Indian, Continental, Chinese, BBQ"
-18466951,Jungle Jamboree,India,Noida,2832,4.5,"North Indian, Continental, Chinese, BBQ"
-18466951,Jungle Jamboree,India,Noida,2832,4.5,"North Indian, Continental, Chinese, BBQ"
 306046,SodaBottleOpenerWala,India,Gurgaon,3818,4.2,"Parsi, North Indian, Maharashtrian, Beverages, Bakery"
-18337893,The Luggage Room Kitchen And Bar,India,New Delhi,1622,4.5,"Italian, Chinese, Continental"
 18337893,The Luggage Room Kitchen And Bar,India,New Delhi,1622,4.5,"Italian, Chinese, Continental"
 18518483,Echoes Hudson Lane,India,New Delhi,2534,4.6,"Cafe, American, Chinese, Continental, North Indian, Italian"
 18246991,Odeon Social,India,New Delhi,5808,4.4,"Continental, American, Asian, North Indian, Momos, Beverages"
@@ -28,14 +21,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18537536,Chili's Grill & Bar,India,New Delhi,2364,4.6,"Mexican, American, Italian"
 18707652,Zam Zam,India,Kolkata,824,4.4,"Biryani, Mughlai"
 18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18571735,Dum Laga Ke Haishaa,India,Kolkata,770,4.5,"Continental, Biryani, North Indian, Chinese, Kebab"
-18398880,JW Kitchen - JW Marriott Hotel Kolkata,India,Kolkata,3578,4.6,"North Indian, European, Mediterranean, Thai, Salad, Juices"
 18398880,JW Kitchen - JW Marriott Hotel Kolkata,India,Kolkata,3578,4.6,"North Indian, European, Mediterranean, Thai, Salad, Juices"
 18677746,Burger in Law,India,Kolkata,455,4.7,"Burger, Fast Food"
 17983797,Dada Boudi Restaurant,India,Kolkata,1993,4.3,"Mughlai, North Indian, Chinese"
@@ -44,8 +29,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18354569,Tram Deepo,India,Kolkata,1895,4.4,"Continental, Chinese, Fast Food, Finger Food, North Indian, Mexican"
 18259462,Ocean Grill,India,Kolkata,2318,4.3,"Continental, Seafood, North Indian, Asian"
 18761167,Echoes Kolkata,India,Kolkata,456,4.8,"North Indian, Continental, Chinese, Italian, American"
-18751849,Five Mad Men,India,Kolkata,1465,4.3,"American, Chinese, Continental, North Indian"
-18751849,Five Mad Men,India,Kolkata,1465,4.3,"American, Chinese, Continental, North Indian"
 18751849,Five Mad Men,India,Kolkata,1465,4.3,"American, Chinese, Continental, North Indian"
 20747,India Restaurant,India,Kolkata,3909,4.5,"Biryani, Mughlai"
 18461760,Kankurgachi Dhaba,India,Kolkata,700,3.9,"North Indian, Biryani, Chinese"
@@ -57,7 +40,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18610904,The Fatty Bao,India,Kolkata,884,4.6,"Japanese, Sushi, Asian"
 18711365,The Saffron Tree,India,Kolkata,1274,4.8,"Mughlai, Continental, Biryani"
 18392725,Tamasha,India,Mumbai,4553,4.6,"Finger Food, Continental"
-18392725,Tamasha,India,Mumbai,4553,4.6,"Finger Food, Continental"
 18701052,The Fusion Kitchen,India,Mumbai,2723,4.7,"Chinese, Continental, European, North Indian, Italian, Mexican, Pizza"
 18548172,Hitchki,India,Mumbai,3418,4.8,"Modern Indian, North Indian, Chinese, Momos, Biryani, Continental, American, Fast Food"
 18591040,Hitchki,India,Mumbai,3524,4.9,"Modern Indian, North Indian, Chinese, Momos, Biryani, Continental, American, Fast Food"
@@ -68,85 +50,33 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18566818,JLWA,India,Mumbai,3101,4.7,"Modern Indian, European, Pizza"
 48851,Rude Lounge,India,Mumbai,5003,4.4,"North Indian, Italian, Chinese, Continental, BBQ"
 18205932,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
-18205932,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
-18205932,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
-18205932,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
-18205932,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
-18205932,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
-18205932,The Cult - Peninsula Grand Hotel,India,Mumbai,3142,4.5,"Continental, North Indian, Chinese"
 18732598,Timess Square,India,Mumbai,2113,4.4,"Continental, Mexican, North Indian"
-18580259,Coffee Culture,India,Mumbai,6023,4.2,"Cafe, Italian, Pizza, Continental, Beverages"
 18580259,Coffee Culture,India,Mumbai,6023,4.2,"Cafe, Italian, Pizza, Continental, Beverages"
 34757,Joey's Pizza,India,Mumbai,7344,4.6,Pizza
 18522518,Vikhroli Social,India,Mumbai,1934,4.3,"American, North Indian, Chinese, Asian, Beverages, Continental, Biryani"
 18917650,Warehouse Kitchenbar,India,Mumbai,666,4.5,"North Indian, Asian, Burmese, Chinese, Continental, Desserts"
 35217,Joey's Pizza,India,Mumbai,8669,4.5,Pizza
 18397684,Craftbar,India,Mumbai,1347,4.8,"Continental, Mediterranean, Modern Indian, Mexican"
-18397684,Craftbar,India,Mumbai,1347,4.8,"Continental, Mediterranean, Modern Indian, Mexican"
-18397684,Craftbar,India,Mumbai,1347,4.8,"Continental, Mediterranean, Modern Indian, Mexican"
-18397684,Craftbar,India,Mumbai,1347,4.8,"Continental, Mediterranean, Modern Indian, Mexican"
-18397684,Craftbar,India,Mumbai,1347,4.8,"Continental, Mediterranean, Modern Indian, Mexican"
-18397684,Craftbar,India,Mumbai,1347,4.8,"Continental, Mediterranean, Modern Indian, Mexican"
 36403,Prithvi Cafe,India,Mumbai,7995,4.4,"Cafe, Fast Food"
-18691230,Grandmama's Café,India,Mumbai,1108,4.3,"Cafe, American, Italian, Parsi, Desserts"
 18691230,Grandmama's Café,India,Mumbai,1108,4.3,"Cafe, American, Italian, Parsi, Desserts"
 58882,Byg Brewski Brewing Company,India,Bangalore,17394,4.9,"Continental, North Indian, Italian, South Indian, Finger Food"
 18706428,Byg Brewski Brewing Company,India,Bangalore,5692,4.8,"Finger Food, Asian, Pizza, Italian, North Indian, Desserts"
-18706428,Byg Brewski Brewing Company,India,Bangalore,5692,4.8,"Finger Food, Asian, Pizza, Italian, North Indian, Desserts"
-18706428,Byg Brewski Brewing Company,India,Bangalore,5692,4.8,"Finger Food, Asian, Pizza, Italian, North Indian, Desserts"
 18871246,ShakesBierre,India,Bangalore,572,4.5,"Asian, Continental, European, North Indian"
-18871246,ShakesBierre,India,Bangalore,572,4.5,"Asian, Continental, European, North Indian"
-18871246,ShakesBierre,India,Bangalore,572,4.5,"Asian, Continental, European, North Indian"
-18871246,ShakesBierre,India,Bangalore,572,4.5,"Asian, Continental, European, North Indian"
-18871246,ShakesBierre,India,Bangalore,572,4.5,"Asian, Continental, European, North Indian"
-18871246,ShakesBierre,India,Bangalore,572,4.5,"Asian, Continental, European, North Indian"
-18772094,Bombay Adda,India,Bangalore,3023,4.3,Modern Indian
-18772094,Bombay Adda,India,Bangalore,3023,4.3,Modern Indian
-18772094,Bombay Adda,India,Bangalore,3023,4.3,Modern Indian
 18772094,Bombay Adda,India,Bangalore,3023,4.3,Modern Indian
 18578798,TBC Sky Lounge,India,Bangalore,7673,4.7,"Continental, Asian, Italian, North Indian"
 18945224,Secret Of Bangalore,India,Bangalore,866,4.3,"North Indian, South Indian, Continental, Asian, Desserts"
 18254597,Brew and Barbeque - A Microbrewery Pub,India,Bangalore,6330,4.6,"Continental, North Indian, BBQ, Steak"
 18387426,The Black Pearl,India,Bangalore,7769,4.7,"North Indian, European, Mediterranean, BBQ"
-18387426,The Black Pearl,India,Bangalore,7769,4.7,"North Indian, European, Mediterranean, BBQ"
-18387426,The Black Pearl,India,Bangalore,7769,4.7,"North Indian, European, Mediterranean, BBQ"
-18387426,The Black Pearl,India,Bangalore,7769,4.7,"North Indian, European, Mediterranean, BBQ"
 57833,Big Pitcher,India,Bangalore,9664,4.6,"American, Continental, North Indian, Mediterranean"
-54162,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
-54162,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
-54162,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
-54162,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
-54162,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
-54162,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
 54162,The Black Pearl,India,Bangalore,10892,4.8,"North Indian, European, Mediterranean"
 18853706,Brahma Brews,India,Bangalore,610,4.3,"Continental, South Indian, Finger Food, Pizza, Seafood"
 18625420,Burma Burma,India,Bangalore,1788,4.7,"Asian, Burmese"
 18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18595782,The Pallet,India,Bangalore,3013,4.6,"Continental, Mediterranean, Italian, North Indian, Finger Food, Asian, Momos"
-18537585,The Reservoire,India,Bangalore,2724,4.6,"Continental, North Indian, Chinese, American"
-18537585,The Reservoire,India,Bangalore,2724,4.6,"Continental, North Indian, Chinese, American"
-18537585,The Reservoire,India,Bangalore,2724,4.6,"Continental, North Indian, Chinese, American"
 18537585,The Reservoire,India,Bangalore,2724,4.6,"Continental, North Indian, Chinese, American"
 56618,AB's - Absolute Barbecues,India,Bangalore,12443,4.9,"European, Mediterranean, North Indian, BBQ"
 51040,Truffles,India,Bangalore,14984,4.7,"Cafe, American, Burger, Steak"
 18874059,The Pump House,India,Bangalore,1057,4.3,"Continental, Finger Food"
 18709627,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
-18709627,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
-18709627,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
-18709627,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
-18709627,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
-18709627,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
-18709627,Simon Says Brew Works,India,Bangalore,2362,4.6,"Continental, American, Italian, Modern Indian, Pizza, Burger"
-18727906,XOOX Brewmill,India,Bangalore,1782,4.5,"Modern Indian, European, Asian"
-18727906,XOOX Brewmill,India,Bangalore,1782,4.5,"Modern Indian, European, Asian"
-18727906,XOOX Brewmill,India,Bangalore,1782,4.5,"Modern Indian, European, Asian"
 18727906,XOOX Brewmill,India,Bangalore,1782,4.5,"Modern Indian, European, Asian"
 18642512,Stories,India,Bangalore,2636,4.6,"Continental, North Indian, Chinese"
 18893197,FC Road Social,India,Pune,606,4.0,"Continental, American, Asian, North Indian, South Indian, European, Chinese, Fast Food"
@@ -154,13 +84,11 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18715982,Flechazo,India,Pune,2927,4.7,"Asian, Mediterranean, North Indian"
 18562250,Cafe Co2 Resto Lounge,India,Pune,1406,4.2,"North Indian, Chinese, Continental, Kebab, Seafood"
 6508166,Flying Duck Co.,India,Pune,1266,4.5,"Asian, European"
-6508166,Flying Duck Co.,India,Pune,1266,4.5,"Asian, European"
 18586395,Onesta,India,Pune,2770,4.8,"Pizza, Italian, Fast Food, Beverages, Desserts"
 18732937,Darshan,India,Pune,1657,4.6,"Italian, Continental, Chinese, Mexican, Fast Food, Street Food, Desserts"
 18784250,Universal Barbeque,India,Pune,1686,4.5,"BBQ, Chinese, North Indian, Beverages"
 18740139,Grandmama's Cafe,India,Pune,1286,4.1,"Continental, Beverages, Desserts, Fast Food"
 18545152,AB's - Absolute Barbecues,India,Pune,5225,4.8,"Continental, North Indian, Chinese"
-18417624,The Sassy Spoon,India,Pune,1627,4.6,"European, Asian, Italian, Finger Food, Salad, Fast Food"
 18417624,The Sassy Spoon,India,Pune,1627,4.6,"European, Asian, Italian, Finger Food, Salad, Fast Food"
 18383095,Teddy Boy,India,Pune,4547,4.2,"North Indian, Continental"
 18621437,The FML Lounge,India,Pune,2059,4.1,"North Indian, Chinese, Continental, Finger Food"
@@ -168,7 +96,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18617201,Onesta,India,Pune,2168,4.7,"Pizza, Italian, Fast Food, Beverages, Desserts"
 18650304,Tatva,India,Pune,2340,4.4,"North Indian, Chinese, Continental"
 18657534,Viman Nagar Social,India,Pune,2352,4.5,"Continental, American, Asian, North Indian, South Indian, Chinese, European, Fast Food"
-18536004,Culture - पुणे,India,Pune,2912,4.2,"Continental, North Indian, Italian, Mediterranean, European, Finger Food, Desserts"
 18536004,Culture - पुणे,India,Pune,2912,4.2,"Continental, North Indian, Italian, Mediterranean, European, Finger Food, Desserts"
 6508323,The Urban Foundry,India,Pune,3369,4.6,"Asian, Indian"
 18678581,Hippie@Heart,India,Pune,631,4.5,"Continental, Italian, North Indian, Finger Food, European"
@@ -191,13 +118,8 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18774025,eat.fit,India,Hyderabad,621,4.4,"Healthy Food, North Indian, Continental, South Indian"
 18965675,Chubby Cho,India,Hyderabad,156,4.4,"Chinese, Asian, Sushi, Japanese"
 18607685,Farzi Cafe,India,Hyderabad,2046,4.7,Modern Indian
-18607685,Farzi Cafe,India,Hyderabad,2046,4.7,Modern Indian
 94402,4M Biryani House,India,Hyderabad,4250,4.3,"Biryani, North Indian"
 18938720,Coal Barbecues,India,Chennai,1517,4.9,"North Indian, Mediterranean, Asian, Arabian, BBQ"
-18800810,The Black Pearl,India,Chennai,1435,4.6,"North Indian, European, Mediterranean, Continental, BBQ"
-18800810,The Black Pearl,India,Chennai,1435,4.6,"North Indian, European, Mediterranean, Continental, BBQ"
-18800810,The Black Pearl,India,Chennai,1435,4.6,"North Indian, European, Mediterranean, Continental, BBQ"
-18800810,The Black Pearl,India,Chennai,1435,4.6,"North Indian, European, Mediterranean, Continental, BBQ"
 18800810,The Black Pearl,India,Chennai,1435,4.6,"North Indian, European, Mediterranean, Continental, BBQ"
 18595414,Coal Barbecues,India,Chennai,5776,4.9,"North Indian, Mediterranean, Asian, Arabian, BBQ"
 18513783,Onesta,India,Chennai,4578,4.7,"Pizza, Italian, Fast Food, Beverages, Desserts"
@@ -219,8 +141,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18540650,Guntur Gongura,India,Chennai,2086,3.7,"North Indian, Chinese, South Indian, Biryani"
 800894,Mubeen's,India,Lucknow,1352,4.4,Mughlai
 800468,Tunday Kababi,India,Lucknow,3753,4.8,"Mughlai, Lucknowi"
-18801082,Farzi Café,India,Lucknow,298,4.6,Modern Indian
-18801082,Farzi Café,India,Lucknow,298,4.6,Modern Indian
 18801082,Farzi Café,India,Lucknow,298,4.6,Modern Indian
 18970077,The Hazelnut Factory,India,Lucknow,203,4.4,"Bakery, Desserts, Cafe"
 801170,Spice Caves,India,Lucknow,2401,4.6,"North Indian, Chinese, Mughlai"
@@ -261,8 +181,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 95333,Chiyang,India,Kochi,622,4.0,"Chinese, Continental"
 100242,Shree Agarwal Caterers,India,Jaipur,1402,4.3,"Bakery, Cafe, Sandwich, Fast Food, Mithai, Mishti, Desserts"
 18748726,The Night Jar,India,Jaipur,851,4.7,"North Indian, Continental, Chinese"
-18748726,The Night Jar,India,Jaipur,851,4.7,"North Indian, Continental, Chinese"
-18748726,The Night Jar,India,Jaipur,851,4.7,"North Indian, Continental, Chinese"
 18641794,Shankar Samosa,India,Jaipur,727,4.3,Street Food
 18903417,Chool,India,Jaipur,383,4.9,"Cafe, North Indian, South Indian, Fast Food"
 18625823,Gulabi Nagari,India,Jaipur,1227,4.3,"North Indian, Chinese"
@@ -293,7 +211,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18663856,The Red Bistro,India,Ahmedabad,491,4.6,"Mexican, Italian, North Indian"
 18766904,The Secret Kitchen,India,Ahmedabad,441,4.1,North Indian
 18627705,I Love Sandwich House,India,Ahmedabad,1106,4.2,"Cafe, Sandwich"
-18627705,I Love Sandwich House,India,Ahmedabad,1106,4.2,"Cafe, Sandwich"
 18819827,Kadak Bhagat,India,Ahmedabad,444,4.6,"North Indian, Chinese, Fast Food"
 18874418,Upri Manzil,India,Ahmedabad,297,4.1,"North Indian, Italian, Continental"
 18578691,Bogarosa,India,Ahmedabad,1156,4.1,"Continental, North Indian"
@@ -322,8 +239,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 120554,Books N Brew,India,Chandigarh,1108,3.7,"Cafe, Fast Food, Italian, Chinese"
 122875,Tossin Pizza,India,Chandigarh,846,4.2,"Pizza, Italian"
 123191,CAFÈ JC's,India,Chandigarh,1277,4.4,"Continental, Cafe, North Indian, Chinese, American"
-130309,Purple Martini,India,Goa,1507,4.8,"Continental, Seafood, Italian, Mediterranean, North Indian"
-130309,Purple Martini,India,Goa,1507,4.8,"Continental, Seafood, Italian, Mediterranean, North Indian"
 130309,Purple Martini,India,Goa,1507,4.8,"Continental, Seafood, Italian, Mediterranean, North Indian"
 130409,Baba Au Rhum,India,Goa,1282,4.6,"Italian, French, Cafe"
 16512333,Britto's Bar & Restaurant,India,Goa,3900,4.3,"Chinese, Continental, Goan, North Indian, Seafood"
@@ -383,7 +298,7 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 16500330,Khan Uncle's Biryani House,India,Gangtok,24,3.4,"Fast Food, Biryani, Chinese"
 16500333,Nimtho,India,Gangtok,14,3.2,"Tibetan, Nepalese"
 16500304,Thakali,India,Gangtok,10,3.2,Nepalese
-18983524,Mehfill- Resto Bar,India,Gangtok,3,0,North Indian
+18983524,Mehfill- Resto Bar,India,Gangtok,3,0.0,North Indian
 18629821,Sula Vineyards,India,Nashik,228,4.7,"Cafe, Pizza, North Indian"
 1600099,Kokni Darbar,India,Nashik,938,4.2,"Fast Food, Chinese, Mughlai"
 1600067,Al Arabian Express,India,Nashik,689,4.4,Mughlai
@@ -709,10 +624,8 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 3301708,Plan B,India,Nagpur,311,4.5,"Burger, Salad, Sandwich, Fast Food, Beverages"
 3300056,Barbecue Restaurant,India,Nagpur,1143,4.8,North Indian
 3301462,Three Beans,India,Nagpur,626,4.4,"Cafe, Italian, Continental"
-3301462,Three Beans,India,Nagpur,626,4.4,"Cafe, Italian, Continental"
 3300012,Mini Punjab,India,Nagpur,1800,3.6,"Chinese, North Indian, Mughlai"
 18623894,Bouffage Cafe & Bistro,India,Nagpur,656,4.7,"Cafe, Continental, North Indian"
-18748677,The Civil Kitchen,India,Nagpur,232,4.2,"Chinese, Sandwich, Fast Food, North Indian, Burger, Kebab, Mughlai, Desserts"
 18748677,The Civil Kitchen,India,Nagpur,232,4.2,"Chinese, Sandwich, Fast Food, North Indian, Burger, Kebab, Mughlai, Desserts"
 3300707,KFC,India,Nagpur,2101,4.2,"Burger, Fast Food"
 3300958,Barbeque Nation,India,Nagpur,1274,4.9,"North Indian, Chinese, BBQ"
@@ -878,15 +791,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18549283,Sthan,UAE,Dubai,1591,4.2,"Biryani, North Indian, Pakistani, Mughlai, Afghan, Indian, Kebab"
 200376,California Pizza Kitchen,UAE,Dubai,1244,4.2,"Pizza, American"
 203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
-203518,The Huddle Sports Bar and Grill - Citymax Hotels Bur Dubai,UAE,Dubai,1492,4.9,"Steak, Continental, North Indian"
 18233284,Farzi Cafe,UAE,Dubai,2095,4.6,"Indian, Contemporary"
 18604803,Dillicious,UAE,Dubai,900,4.0,"Indian, Mughlai, North Indian, Kebab"
 18650045,Tamarind Terrace,UAE,Dubai,875,4.0,"Kerala, South Indian, Indian"
@@ -952,9 +856,7 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18212135,Denny's,UAE,Abu Dhabi,762,4.6,American
 5701442,Peppermill,UAE,Abu Dhabi,633,4.3,"Indian, North Indian, Mughlai, Biryani"
 5702990,Jazz@PizzaExpress,UAE,Abu Dhabi,1374,4.8,"Italian, Pizza, Salad"
-5702990,Jazz@PizzaExpress,UAE,Abu Dhabi,1374,4.8,"Italian, Pizza, Salad"
 18277098,Ming's Chamber,UAE,Abu Dhabi,657,4.8,Asian
-5702486,Ghee Rice,UAE,Abu Dhabi,693,3.9,"Indian, Kerala, Biryani"
 5702486,Ghee Rice,UAE,Abu Dhabi,693,3.9,"Indian, Kerala, Biryani"
 18340175,The Yellow Chilli by Sanjeev Kapoor,UAE,Abu Dhabi,670,4.3,"Indian, North Indian"
 5800678,Harbour Court - The Kingsbury,Sri Lanka,Colombo,174,4.4,"Italian, Seafood, Desserts"
@@ -1125,11 +1027,11 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 6600214,Beirute,Brazil,Brasília,9,3.8,Arabian
 6601549,It Speed Lunch,Brazil,Brasília,8,3.7,"Grill, Brazilian"
 6601602,Taco Pep,Brazil,Brasília,31,4.5,"Mexican, Grill"
-6600754,Carcassone,Brazil,Brasília,3,0,Bar Food
+6600754,Carcassone,Brazil,Brasília,3,0.0,Bar Food
 6600083,Villa Tevere,Brazil,Brasília,14,4.2,Italian
 6600611,Fred,Brazil,Brasília,6,3.7,German
 6601595,Outback Steakhouse,Brazil,Brasília,12,4.3,"American, Grill"
-6600542,Avenida Paulista,Brazil,Brasília,0,0,"Italian, Pizza"
+6600542,Avenida Paulista,Brazil,Brasília,0,0.0,"Italian, Pizza"
 6601145,Bierfass Pontão,Brazil,Brasília,11,3.7,"Brazilian, Seafood"
 6600879,Babel,Brazil,Brasília,5,2.8,Healthy Food
 6600379,Sushi Loko,Brazil,Brasília,12,2.9,Japanese
@@ -1215,7 +1117,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 7000700,Pocha 포차,New Zealand,Auckland,512,4.5,"Korean, Fried Chicken"
 7004412,The Shelf,New Zealand,Auckland,666,4.4,"Cafe Food, Coffee and Tea, Desserts"
 7001670,"Eight - Cordis, Auckland Hotel",New Zealand,Auckland,755,4.7,"European, Seafood, Grill"
-7001670,"Eight - Cordis, Auckland Hotel",New Zealand,Auckland,755,4.7,"European, Seafood, Grill"
 18672367,Chamate,New Zealand,Auckland,309,4.2,"Asian, Chinese, Seafood, Yum Cha, Dumplings, Hot Pot, BBQ"
 7003002,Chikos Restaurant & Cafe,New Zealand,Auckland,354,4.7,"Kiwi, Asian, Pacific, Filipino, Japanese"
 7100502,Fidel's,New Zealand,Wellington City,346,4.6,"European, Mexican, Cafe Food"
@@ -1238,26 +1139,26 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 7101483,Burger Liquor,New Zealand,Wellington City,185,4.4,American
 7100178,Monsoon Poon,New Zealand,Wellington City,205,4.3,Asian
 7100865,Shed 5,New Zealand,Wellington City,139,4.5,"European, Pacific"
-7210754,The Golconda Bowl,,Dummy,0,0,"North Indian, Mughlai"
-7204069,California Cantina,,Dummy,0,0,"Burger, Fast Food, Mexican, American, Pizza"
-7200516,Bardelli's,,Dummy,0,0,South Indian
-18133267,Baton Rouge,,Dummy,0,0,Steak
-7204711,Dunkin Donuts,,Dummy,0,0,"Fast Food, Desserts"
-7204029,L'Opera,,Dummy,0,0,Bakery
-5,Yoko Sizzlers,,Dummy,0,0,Japanese
-7200182,Kauai,,Dummy,0,0,Healthy Food
-7204328,Mcdonalds,,Dummy,0,0,"Italian, North Indian"
-3,Cafe Mangii,,Dummy,0,0,"Italian, European, Bakery"
-2,PHD,,Dummy,0,0,"Fast Food, Biryani"
-10,Hotel Sai Palace Garden,,Dummy,0,0,"North Indian, Chinese, South Indian"
-7204068,La Pescadería de Walker,,Dummy,0,0,Seafood
-7204327,Lane Cuisine Turc - Zorlu Alışveriş Merkezi,,Dummy,0,0,Turkish
-7204032,4700 BC Popcorn,,Dummy,0,0,Desserts
-7206255,Indian Zaik,,Dummy,0,0,"Fast Food, Indian"
-7209209,Arabic Nights,,Dummy,0,0,"Turkish, Mediterranean"
-15557859,Domino's Pizza,,Dummy,0,0,"Pizza, Fast Food"
-15561694,Geometrico,,Dummy,0,0,Others
-15561685,El Patio,,Dummy,0,0,Healthy Food
+7210754,The Golconda Bowl,,Dummy,0,0.0,"North Indian, Mughlai"
+7204069,California Cantina,,Dummy,0,0.0,"Burger, Fast Food, Mexican, American, Pizza"
+7200516,Bardelli's,,Dummy,0,0.0,South Indian
+18133267,Baton Rouge,,Dummy,0,0.0,Steak
+7204711,Dunkin Donuts,,Dummy,0,0.0,"Fast Food, Desserts"
+7204029,L'Opera,,Dummy,0,0.0,Bakery
+5,Yoko Sizzlers,,Dummy,0,0.0,Japanese
+7200182,Kauai,,Dummy,0,0.0,Healthy Food
+7204328,Mcdonalds,,Dummy,0,0.0,"Italian, North Indian"
+3,Cafe Mangii,,Dummy,0,0.0,"Italian, European, Bakery"
+2,PHD,,Dummy,0,0.0,"Fast Food, Biryani"
+10,Hotel Sai Palace Garden,,Dummy,0,0.0,"North Indian, Chinese, South Indian"
+7204068,La Pescadería de Walker,,Dummy,0,0.0,Seafood
+7204327,Lane Cuisine Turc - Zorlu Alışveriş Merkezi,,Dummy,0,0.0,Turkish
+7204032,4700 BC Popcorn,,Dummy,0,0.0,Desserts
+7206255,Indian Zaik,,Dummy,0,0.0,"Fast Food, Indian"
+7209209,Arabic Nights,,Dummy,0,0.0,"Turkish, Mediterranean"
+15557859,Domino's Pizza,,Dummy,0,0.0,"Pizza, Fast Food"
+15561694,Geometrico,,Dummy,0,0.0,Others
+15561685,El Patio,,Dummy,0,0.0,Healthy Food
 7302200,Mamma Jamma,Brazil,Rio de Janeiro,12,4.5,Pizza
 7303710,Paris 6,Brazil,Rio de Janeiro,28,4.4,French
 7302898,Aprazível,Brazil,Rio de Janeiro,63,4.9,Brazilian
@@ -1288,7 +1189,6 @@ Restaurant Id,Restaurant Name,Country,City,User Rating Votes,User Aggregate Rati
 18554965,Magal Mapogalmegi BBQ,Indonesia,Jakarta,1219,4.9,"BBQ, Korean, Grill"
 18597282,Sushi Go!,Indonesia,Jakarta,2704,4.8,"Sushi, Japanese"
 18589077,Sushi Hiro,Indonesia,Jakarta,1957,4.8,"Sushi, Japanese"
-18981544,Katsu YA,Indonesia,Jakarta,294,4.2,Japanese
 18981544,Katsu YA,Indonesia,Jakarta,294,4.2,Japanese
 18680113,The Cutt Grill House,Indonesia,Jakarta,675,4.8,"Grill, Western"
 18464311,Sushi Hiro,Indonesia,Jakarta,2373,4.9,"Sushi, Japanese"
