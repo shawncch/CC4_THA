@@ -21,12 +21,13 @@
  
 ## Architecture and Cloud Deployment Considerations
 
-To deploy this solution, I have utilised `AWS Glue` or `Lambda` jobs to run the source code or script. Making use of `AWS S3`, the job will read source files from a specific bucket and write output files to a desired folder. In order to get this working, there is a need to create an IAM Role in AWS that has both read and write access to S3, as well as Glue Service Access.
+To deploy this solution, I have utilised `AWS Glue` or `Lambda` jobs to run the source code or script. Making use of `AWS S3`, the job will read source files from a specific bucket and write output files to the desired folder. In order to get this working, there is a need to create an IAM Role in AWS that has both read and write access to S3, as well as Glue Service Access.
 
 S3 will be configured with a bucket that contains two folders, `Source` and `Output`, where the Source folder will contain the source data files, and the Output folder will contain the output files such as restaurant.csv and restaurant_events.csv.
 
 ![Alt text](S3_Folders.jpg)  
 ![Alt text](S3_OutputFiles.jpg)
+![Alt text](AWS_GlueScript.jpg)
 
 There is also a function in the script to export a json file to the Source folder from a JSON URL link.
 
@@ -42,6 +43,7 @@ The diagram shows two possible paths we can trigger the glue job. The first appr
 
 ## Documents Overview  
 `AWS_Architecture_Diagram.jpg` - Photo of AWS Architecture Diagram  
+`AWS_GlueScript.jpg` - Screenshot of AWS Glue Script used to execute and produce required output files
 `complete_restaurant_data.csv` - All restaurant and event details, restaurant details may be duplicated depending on number of events held  
 `Country-Code.xlsx` - Source file containg Country Codes and corresponding countries  
 `main_glue.py` - Main python script used in AWS Glue job  
