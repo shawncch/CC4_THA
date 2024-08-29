@@ -40,17 +40,17 @@ Alternatively, in the case where source data is uploaded or amended on regular i
 ![Alt text](AWS_Architecture_Diagram.jpg)
 The diagram shows two possible paths we can trigger the glue job. The first approach uses `S3 Event Notifications` and `AWS Lambda`, whille the second approach relies on a scheduler with the help of `AWS EventBridge`. Furthermore, if source files were to be moved to a database, we can utitilise `RDS` and extract data from there, instead of the Excel and JSON files.
 
-## Documents Overview
-`AWS_Architecture_Diagram.jpg` - Photo of AWS Architecture Diagram
-`complete_restaurant_data.csv` - All restaurant and event details, restaurant details may be duplicated depending on number of events held
-`Country-Code.xlsx` - Source file containg Country Codes and corresponding countries
-`main_glue.py` - Main python script used in AWS Glue job
-`restaurant_data.json` - JSON file retrieved from JSON URL link
-`restaurant_events.csv` - List of events and their corresponding restaurant details
-`restaurants.csv` - Unique List of restaurants and their details
-`S3_Folders.jpg` - Screenshot of AWS S3 directory
-`S3_OutputFiles.jpg` - Screenshot of AWS S3 Output Folder
-`thresholds.csv` - List of Rating texts and their correspondig min, max and average values
+## Documents Overview  
+`AWS_Architecture_Diagram.jpg` - Photo of AWS Architecture Diagram  
+`complete_restaurant_data.csv` - All restaurant and event details, restaurant details may be duplicated depending on number of events held  
+`Country-Code.xlsx` - Source file containg Country Codes and corresponding countries  
+`main_glue.py` - Main python script used in AWS Glue job  
+`restaurant_data.json` - JSON file retrieved from JSON URL link  
+`restaurant_events.csv` - List of events and their corresponding restaurant details  
+`restaurants.csv` - Unique List of restaurants and their details  
+`S3_Folders.jpg` - Screenshot of AWS S3 directory  
+`S3_OutputFiles.jpg` - Screenshot of AWS S3 Output Folder  
+`thresholds.csv` - List of Rating texts and their correspondig min, max and average values  
 
 ## Instructions on How to Run the Source Code
 
