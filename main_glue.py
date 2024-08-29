@@ -118,7 +118,7 @@ def output_restaurant_data(restaurant_data_df, country_code_df):
     merged_df = merged_df.drop(columns=["Country Code"])
     merged_df = merged_df[["Restaurant Id", "Restaurant Name", "Country", "City", "User Rating Votes", "User Aggregate Rating", "Cuisines"]]
     merged_df_deduped = merged_df.drop_duplicates(keep='first') # duplicates arising combined preprocessing function, a restaurant may have multiple events, and as a result have repeated restaurant details with different event details
-    merged_df_deduped.to_csv("s3://cc4tha/output/restaurant_data.csv", index = False)
+    merged_df_deduped.to_csv("s3://cc4tha/output/restaurants.csv", index = False)
     
 def output_restaurant_events(restaurant_data_df):
     filtered_df = restaurant_data_df[restaurant_data_df["Event Start Date"] != "NA"]
