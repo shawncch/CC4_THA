@@ -12,10 +12,12 @@
 - **Unified Preprocessing Function**: 
   - Since the desired output CSV files for the first and second requirements require iterating through the JSON file to extract the necessary values, a single main preprocessing function is used to handle data processing for both requirements.
   - This approach avoids redundancy but necessitates deduplication of rows for unique restaurant details in the first requirement (`restaurants.csv`). For example, a restaurant with 5 events would initially have five rows with duplicated restaurant details (e.g., `res_id`, `name`) but different event details.
-  - I have developed two different adaptations for the source code, one which can be run using the notebook (`main.ipynb`), and the other which was run in my AWS Glue job (`main_glue.py`)
 
 - **Data Handling**:
   - A **Pandas DataFrame** is used for data storage and processing instead of a Spark DataFrame, considering the data size is relatively small (< 2000 records).
+ 
+- **Local and Cloud adaptations
+   - There are two different adaptations for the solution, one which can be run on the local machine using the notebook (`main.ipynb`), and the other which was run in my AWS Glue job (`main_glue.py`) 
  
 ## Architecture and Cloud Deployment Considerations
 
