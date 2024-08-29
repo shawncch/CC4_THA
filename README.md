@@ -16,7 +16,7 @@
 - **Data Handling**:
   - A **Pandas DataFrame** is used for data storage and processing instead of a Spark DataFrame, considering the data size is relatively small (< 2000 records).
  
-- **Local and Cloud adaptations
+- **Local and Cloud adaptations**
    - There are two different adaptations for the solution, one which can be run on the local machine using the notebook (`main.ipynb`), and the other which was run in my AWS Glue job (`main_glue.py`) 
  
 ## Architecture and Cloud Deployment Considerations
