@@ -20,6 +20,15 @@ job = Job(glueContext)
 job.init(args['JOB_NAME'], args)
 job.commit()
 
+def initialise_data(data):
+    data = json.loads(data)
+
+    for i, result in enumerate(data):
+        for j, restaurant in enumerate(result['restaurants']):
+            if 'zomato_events' not in restaurant['restaurant']:
+                data[i]["restaurants"][j]["restaurant"]["zomato_events"] = []
+    return data
+
 def save_json_to_s3(url):
     response = requests.get(json_url)
     json_data = response.json()
@@ -136,10 +145,9 @@ def output_restaurant_events(restaurant_data_df):
     
     return filtered_df2
 
-def output_thresholds(data):
-    restaurant_data_df = preprocess_unique_restaurants(data)
-    restaurant_data_df = restaurant_data_df.loc[lambda x : x["User Rating Text"].isin(["Excellent", "Very Good", "Good", "Average", "Poor"])]
-    thresholds = restaurant_data_df.groupby("User Rating Text").agg(
+def output_thresholds(unique_restaurants_df):
+    unique_restaurants_df1 = unique_restaurants_df.loc[lambda x : x["User Rating Text"].isin(["Excellent", "Very Good", "Good", "Average", "Poor"])]
+    thresholds = unique_restaurants_df1.groupby("User Rating Text").agg(
         min_rating=("User Aggregate Rating", "min"),
         max_rating=("User Aggregate Rating", "max"),
         avg_rating=("User Aggregate Rating", "mean")
@@ -156,7 +164,7 @@ if __name__ == '__main__':
     
     # can uncomment the below function to upload new json file
     # save_json_to_s3(url) 
-    s
+
     s3 = boto3.client('s3')
     json_url = 'https://raw.githubusercontent.com/Papagoat/brain-assessment/main/restaurant_data.json'
 
@@ -165,20 +173,15 @@ if __name__ == '__main__':
     
     obj = s3.get_object(Bucket=bucket_name, Key=file_key)
     data = obj['Body'].read().decode('utf-8')
-    
-    data = json.loads(data)
-    
-    print(data)
 
-    for i, result in enumerate(data):
-        for j, restaurant in enumerate(result['restaurants']):
-            if 'zomato_events' not in restaurant['restaurant']:
-                data[i]["restaurants"][j]["restaurant"]["zomato_events"] = []
-
+    data = initialise_data(data)
+    
+    # preprocessing
     unique_restaurants_df = preprocess_unique_restaurants(data)
     unique_events_df = preprocess_unique_events(data)
     country_code_df = preprocess_country_codes()
     
+    # output
     merged_unique_restaurants_df = output_restaurant_data(unique_restaurants_df, country_code_df)
     filtered_unique_events_df = output_restaurant_events(unique_events_df)
     restaurants_with_events_df = output_restaurant_data_with_events(merged_unique_restaurants_df, unique_events_df)
@@ -191,7 +194,7 @@ if __name__ == '__main__':
     filtered_unique_events_df.to_csv("s3://cc4thagovtech/output/restaurant_events.csv", index = False)
 
     # Requirement 3: Ratings threshold
-    output_thresholds(data)
+    output_thresholds(unique_restaurants_df)
     
 
 
