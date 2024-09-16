@@ -21,9 +21,9 @@ To deploy this solution, I have utilised `AWS Glue` or `Lambda` jobs to run the 
 
 S3 will be configured with a bucket that contains two folders, `Source` and `Output`, where the Source folder will contain the source data files, and the Output folder will contain the output files such as restaurant.csv and restaurant_events.csv.
 
-![Alt text](S3_Folders.jpg)  
-![Alt text](S3_OutputFiles.jpg)
-![Alt text](AWS_GlueScript.jpg)
+![Alt text](Screenshots%20and%20Diagrams/S3_Folders.jpg)  
+![Alt text](Screenshots%20and%20Diagrams/S3_OutputFiles.jpg)
+![Alt text](Screenshots%20and%20Diagrams/AWS_GlueScript.jpg)
 
 There is also a function in the script to export a json file to the Source folder from a JSON URL link.
 
@@ -34,7 +34,7 @@ By utilising `S3 Event Notifications` and `AWS Lambda` to detect any changes in 
 Alternatively, in the case where source data is uploaded or amended on regular intervals, we can consider the use of Amazon EventBridge to schedule the invocation of the glue job periodically.
 
 ## Architecture Diagram
-![Alt text](AWS_Architecture_Diagram.jpg)
+![Alt text](Screenshots%20and%20Diagrams/AWS_Architecture_Diagram.jpg)
 The diagram shows two possible paths we can trigger the glue job. The first approach uses `S3 Event Notifications` and `AWS Lambda`, whille the second approach relies on a scheduler with the help of `AWS EventBridge`. Furthermore, if source files were to be moved to a database, we can utitilise `RDS` and extract data from there, instead of the Excel and JSON files.
 
 ## Documents Overview  
