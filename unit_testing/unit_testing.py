@@ -22,7 +22,7 @@ class TestPreprocessUniqueRestaurants(unittest.TestCase):
 
         result_df = preprocess_unique_restaurants(data)
         pd.testing.assert_frame_equal(result_df, expected_df)
-        print(result_df, "\n")
+        print(result_df, "\n\n")
 
     def test_preprocess_unique_events(self):
         print("Running test_preprocess_unique_events")
@@ -39,7 +39,7 @@ class TestPreprocessUniqueRestaurants(unittest.TestCase):
 
         result_df = preprocess_unique_events(data)
         pd.testing.assert_frame_equal(result_df, expected_df)
-        print(result_df, "\n")
+        print(result_df, "\n\n")
 
 
     def test_output_unique_restaurants(self):
@@ -61,7 +61,7 @@ class TestPreprocessUniqueRestaurants(unittest.TestCase):
 
         result_df = output_restaurant_data(unique_restaurants_df, country_code_df)
         pd.testing.assert_frame_equal(result_df, expected_df)
-        print(result_df, "\n")
+        print(result_df, "\n\n")
 
     def test_output_restaurants_with_events(self):
         print("Running test_output_restaurants_with_events")
@@ -89,7 +89,7 @@ class TestPreprocessUniqueRestaurants(unittest.TestCase):
 
         result_df = output_restaurant_data_with_events(merged_restaurants_df, unique_events_df)
         pd.testing.assert_frame_equal(result_df, expected_df)
-        print(result_df, "\n")
+        print(result_df, "\n\n")
 
     def test_filter_events_by_april_2019(self):
         print("Running test_filter_events_by_april_2019")
@@ -108,7 +108,7 @@ class TestPreprocessUniqueRestaurants(unittest.TestCase):
         result_df = output_restaurant_events(unique_events_df)
         pd.testing.assert_frame_equal(result_df, expected_df)
 
-        print(result_df, "\n")
+        print(result_df, "\n\n")
 
 
 if __name__ == '__main__':

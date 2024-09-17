@@ -1,9 +1,13 @@
+import warnings
 import pandas as pd
 import json
+warnings.filterwarnings("ignore")
 import requests
 
-# run this once to write json file
 
+
+
+# run this once to write json file
 url = "https://raw.githubusercontent.com/Papagoat/brain-assessment/main/restaurant_data.json"
 response = requests.get(url)
 with open('../source/restaurant_data.json', 'w') as json_file:  
